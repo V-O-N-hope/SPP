@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogBuffer", "LogBuffer\LogBuffer.csproj", "{0A5B2F1A-F47E-457E-8D60-9A97D848FCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseClock", "ReverseClock\ReverseClock.csproj", "{7BD8173D-0082-47A5-8996-4B637B22CEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5B2F1A-F47E-457E-8D60-9A97D848FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5B2F1A-F47E-457E-8D60-9A97D848FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5B2F1A-F47E-457E-8D60-9A97D848FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5B2F1A-F47E-457E-8D60-9A97D848FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD8173D-0082-47A5-8996-4B637B22CEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD8173D-0082-47A5-8996-4B637B22CEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD8173D-0082-47A5-8996-4B637B22CEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD8173D-0082-47A5-8996-4B637B22CEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

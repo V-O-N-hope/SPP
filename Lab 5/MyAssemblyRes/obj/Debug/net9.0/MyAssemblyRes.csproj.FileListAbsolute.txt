@@ -1,0 +1,14 @@
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\bin\Debug\net9.0\MyAssemblyRes.exe
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\bin\Debug\net9.0\MyAssemblyRes.deps.json
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\bin\Debug\net9.0\MyAssemblyRes.runtimeconfig.json
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\bin\Debug\net9.0\MyAssemblyRes.dll
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\bin\Debug\net9.0\MyAssemblyRes.pdb
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.AssemblyInfoInputs.cache
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.AssemblyInfo.cs
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.csproj.CoreCompileInputs.cache
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.dll
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\refint\MyAssemblyRes.dll
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.pdb
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\MyAssemblyRes.genruntimeconfig.cache
+D:\Mikita\Work\C#\spp5\MyAssemblyRes\obj\Debug\net9.0\ref\MyAssemblyRes.dll

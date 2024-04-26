@@ -1,0 +1,14 @@
+D:\Mikita\Work\C#\spp5\MyParallel\bin\Debug\net9.0\MyParallel.exe
+D:\Mikita\Work\C#\spp5\MyParallel\bin\Debug\net9.0\MyParallel.deps.json
+D:\Mikita\Work\C#\spp5\MyParallel\bin\Debug\net9.0\MyParallel.runtimeconfig.json
+D:\Mikita\Work\C#\spp5\MyParallel\bin\Debug\net9.0\MyParallel.dll
+D:\Mikita\Work\C#\spp5\MyParallel\bin\Debug\net9.0\MyParallel.pdb
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.AssemblyInfoInputs.cache
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.AssemblyInfo.cs
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.csproj.CoreCompileInputs.cache
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.dll
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\refint\MyParallel.dll
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.pdb
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\MyParallel.genruntimeconfig.cache
+D:\Mikita\Work\C#\spp5\MyParallel\obj\Debug\net9.0\ref\MyParallel.dll

@@ -1,0 +1,14 @@
+E:\Mikita\Work\C#\SPP lab 3\Mutex\bin\Debug\net8.0\Mutex.exe
+E:\Mikita\Work\C#\SPP lab 3\Mutex\bin\Debug\net8.0\Mutex.deps.json
+E:\Mikita\Work\C#\SPP lab 3\Mutex\bin\Debug\net8.0\Mutex.runtimeconfig.json
+E:\Mikita\Work\C#\SPP lab 3\Mutex\bin\Debug\net8.0\Mutex.dll
+E:\Mikita\Work\C#\SPP lab 3\Mutex\bin\Debug\net8.0\Mutex.pdb
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.AssemblyInfoInputs.cache
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.AssemblyInfo.cs
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.csproj.CoreCompileInputs.cache
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.dll
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\refint\Mutex.dll
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.pdb
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\Mutex.genruntimeconfig.cache
+E:\Mikita\Work\C#\SPP lab 3\Mutex\obj\Debug\net8.0\ref\Mutex.dll

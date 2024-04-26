@@ -1,0 +1,11 @@
+D:\Mikita\Work\C#\DemoAssembly\bin\Debug\net9.0\DemoAssembly.deps.json
+D:\Mikita\Work\C#\DemoAssembly\bin\Debug\net9.0\DemoAssembly.dll
+D:\Mikita\Work\C#\DemoAssembly\bin\Debug\net9.0\DemoAssembly.pdb
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\DemoAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\DemoAssembly.AssemblyInfoInputs.cache
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\DemoAssembly.AssemblyInfo.cs
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\DemoAssembly.csproj.CoreCompileInputs.cache
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\DemoAssembly.dll
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\refint\DemoAssembly.dll
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\DemoAssembly.pdb
+D:\Mikita\Work\C#\DemoAssembly\obj\Debug\net9.0\ref\DemoAssembly.dll

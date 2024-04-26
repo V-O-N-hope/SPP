@@ -1,0 +1,14 @@
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\bin\Debug\net8.0\OSHandle.exe
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\bin\Debug\net8.0\OSHandle.deps.json
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\bin\Debug\net8.0\OSHandle.runtimeconfig.json
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\bin\Debug\net8.0\OSHandle.dll
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\bin\Debug\net8.0\OSHandle.pdb
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.AssemblyInfoInputs.cache
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.AssemblyInfo.cs
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.csproj.CoreCompileInputs.cache
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.dll
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\refint\OSHandle.dll
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.pdb
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\OSHandle.genruntimeconfig.cache
+E:\Mikita\Work\C#\SPP lab 3\OSHandle\obj\Debug\net8.0\ref\OSHandle.dll

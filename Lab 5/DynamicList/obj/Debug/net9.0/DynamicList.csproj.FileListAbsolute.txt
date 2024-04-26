@@ -1,0 +1,14 @@
+D:\Mikita\Work\C#\spp5\DynamicList\bin\Debug\net9.0\DynamicList.exe
+D:\Mikita\Work\C#\spp5\DynamicList\bin\Debug\net9.0\DynamicList.deps.json
+D:\Mikita\Work\C#\spp5\DynamicList\bin\Debug\net9.0\DynamicList.runtimeconfig.json
+D:\Mikita\Work\C#\spp5\DynamicList\bin\Debug\net9.0\DynamicList.dll
+D:\Mikita\Work\C#\spp5\DynamicList\bin\Debug\net9.0\DynamicList.pdb
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.AssemblyInfoInputs.cache
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.AssemblyInfo.cs
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.csproj.CoreCompileInputs.cache
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.dll
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\refint\DynamicList.dll
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.pdb
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\DynamicList.genruntimeconfig.cache
+D:\Mikita\Work\C#\spp5\DynamicList\obj\Debug\net9.0\ref\DynamicList.dll

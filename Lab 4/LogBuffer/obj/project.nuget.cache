@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZdF+z/d3/vi4XsCqu3D42YgRov4MHdUkEZv8gzQQxgln68qZaQ4VmvaDehEueqP2cffXqMPM9lsBpfd5jjnLA==",
+  "success": true,
+  "projectFilePath": "D:\\Mikita\\Work\\C#\\spp4\\LogBuffer\\LogBuffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rbhjh\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\rbhjh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\rbhjh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\rbhjh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

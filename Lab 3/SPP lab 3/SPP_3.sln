@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "Mutex\Mutex.csproj", "{355392D6-AB39-4F06-AE6F-FEEAA8D7B84A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSHandle", "OSHandle\OSHandle.csproj", "{237245F6-9EA9-4748-9A77-CC4B7483E146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355392D6-AB39-4F06-AE6F-FEEAA8D7B84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355392D6-AB39-4F06-AE6F-FEEAA8D7B84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355392D6-AB39-4F06-AE6F-FEEAA8D7B84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355392D6-AB39-4F06-AE6F-FEEAA8D7B84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237245F6-9EA9-4748-9A77-CC4B7483E146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237245F6-9EA9-4748-9A77-CC4B7483E146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237245F6-9EA9-4748-9A77-CC4B7483E146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237245F6-9EA9-4748-9A77-CC4B7483E146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

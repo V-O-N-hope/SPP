@@ -1,0 +1,14 @@
+D:\Mikita\Work\C#\spp4\ReverseClock\bin\Debug\net8.0\ReverseClock.exe
+D:\Mikita\Work\C#\spp4\ReverseClock\bin\Debug\net8.0\ReverseClock.deps.json
+D:\Mikita\Work\C#\spp4\ReverseClock\bin\Debug\net8.0\ReverseClock.runtimeconfig.json
+D:\Mikita\Work\C#\spp4\ReverseClock\bin\Debug\net8.0\ReverseClock.dll
+D:\Mikita\Work\C#\spp4\ReverseClock\bin\Debug\net8.0\ReverseClock.pdb
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.AssemblyInfoInputs.cache
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.AssemblyInfo.cs
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.csproj.CoreCompileInputs.cache
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.dll
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\refint\ReverseClock.dll
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.pdb
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ReverseClock.genruntimeconfig.cache
+D:\Mikita\Work\C#\spp4\ReverseClock\obj\Debug\net8.0\ref\ReverseClock.dll
